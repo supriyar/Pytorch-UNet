@@ -1,1 +1,1 @@
-python train.py -e 2
+python train.py --epoch 2 --trace True
